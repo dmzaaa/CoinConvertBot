@@ -9,7 +9,7 @@
 
 ## 兑币机 - Telegram Bot
 
->一款开源自动化USDT兑换TRX的Telegram机器人！
+>一款完全自动化USDT兑换TRX的Telegram机器人！
 
 
 
